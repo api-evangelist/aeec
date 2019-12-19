@@ -1,0 +1,42 @@
+{
+    "name": "AEEC",
+    "description": "AEEC is an award-winning, woman-owned, professional services organization offering top-quality technology, environmental, and engineering solutions to US Federal Government and Fortune 50 customers since 1995. We support our customers\u2019 requirements and offer a range of customized solutions with the highest degree of honesty, integrity, and service excellence. We offer solutions that are efficient, appropriate and worthy of the investment. Our clients\u2019 success is our success.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/aeec-logo.png",
+    "tags": [
+        "agencies",
+        "have api",
+        "no api definition",
+        "profile"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/aeec\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AEEC",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/aeec-logo.png",
+            "humanURL": "http:\/\/www.americanconsultants.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aeec-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aeec-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.americanconsultants.com\/"
+        }
+    ]
+}
